@@ -1,0 +1,10 @@
+{
+  "id": 136103379,
+  "created_at": "2026-05-27T17:05:15.000Z",
+  "repository_selection": "selected",
+  "permissions": {
+    "metadata": "read",
+    "statuses": "write"
+  },
+  "repositories": ["klue", "o-frings.r-universe.dev"]
+}
